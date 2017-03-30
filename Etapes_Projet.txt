@@ -1,0 +1,27 @@
+Jeudi 30 Mars:
+	
+	Planning prévisionnel
+
+Mardi 4 Avril:
+
+	Déroulé de la méthode Merise dans son intégralité
+	Dossier Modélisation:
+		Dico donnée
+		Matrice dependances fonctionnelles
+		MCD
+		MDD
+
+		Avec choix justifiés
+
+Jeudi 6 Avril (jusqu'a 00h00 max):
+
+	Revenir sur les grands choix (MCD nottament, ainsi que les requêtes et les choix éffectués)
+
+Vendredi 7 Avril:
+
+	choix de modélisation, vrai jeu de démo de données
+
+
+
+
+!!! Constituer un jeu de données qui permet de vérifier les requêtes. !!!
